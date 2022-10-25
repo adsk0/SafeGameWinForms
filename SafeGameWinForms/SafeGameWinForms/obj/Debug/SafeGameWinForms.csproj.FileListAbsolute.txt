@@ -1,0 +1,11 @@
+C:\Users\adsko\source\Repos\SafeGameWinForms\SafeGameWinForms\obj\Debug\SafeGameWinForms.csproj.AssemblyReference.cache
+C:\Users\adsko\source\Repos\SafeGameWinForms\SafeGameWinForms\obj\Debug\SafeGameWinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\adsko\source\Repos\SafeGameWinForms\SafeGameWinForms\obj\Debug\SafeGameWinForms.Form1.resources
+C:\Users\adsko\source\Repos\SafeGameWinForms\SafeGameWinForms\obj\Debug\SafeGameWinForms.Properties.Resources.resources
+C:\Users\adsko\source\Repos\SafeGameWinForms\SafeGameWinForms\obj\Debug\SafeGameWinForms.csproj.GenerateResource.cache
+C:\Users\adsko\source\Repos\SafeGameWinForms\SafeGameWinForms\obj\Debug\SafeGameWinForms.csproj.CoreCompileInputs.cache
+C:\Users\adsko\source\Repos\SafeGameWinForms\SafeGameWinForms\bin\Debug\SafeGameWinForms.exe.config
+C:\Users\adsko\source\Repos\SafeGameWinForms\SafeGameWinForms\bin\Debug\SafeGameWinForms.exe
+C:\Users\adsko\source\Repos\SafeGameWinForms\SafeGameWinForms\bin\Debug\SafeGameWinForms.pdb
+C:\Users\adsko\source\Repos\SafeGameWinForms\SafeGameWinForms\obj\Debug\SafeGameWinForms.exe
+C:\Users\adsko\source\Repos\SafeGameWinForms\SafeGameWinForms\obj\Debug\SafeGameWinForms.pdb
